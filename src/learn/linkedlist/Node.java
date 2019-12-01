@@ -1,6 +1,6 @@
 package learn.linkedlist;
 
-
+//something has changed,you are idoit not to find out
 public class Node {
     private Node next;
     private String value;

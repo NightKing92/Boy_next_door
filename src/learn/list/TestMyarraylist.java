@@ -3,7 +3,7 @@ package learn.list;
 public class TestMyarraylist {
     public static void main(String[] args){
         MyarraylistImpl myarraylist = new MyarraylistImpl();
-        for (int i =0;i<80;i++){
+        for (int i =0;i<800;i++){
             myarraylist.add(i);
         }
 //        System.out.println(myarraylist.getI());
@@ -18,5 +18,7 @@ public class TestMyarraylist {
 //        System.out.println(myarraylist.getI());
         myarraylist.remove("插入");
         myarraylist.print();
+        System.out.println();
+        System.out.println(myarraylist.getTail());
     }
 }

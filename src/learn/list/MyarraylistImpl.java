@@ -21,6 +21,7 @@ public class MyarraylistImpl implements Iarraylist {
     public int getI() {
         return i;
     }
+    public int getTail() { return tail; }
 
     @Override
     public void add(Object o) {
