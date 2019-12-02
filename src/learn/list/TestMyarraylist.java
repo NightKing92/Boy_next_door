@@ -20,5 +20,6 @@ public class TestMyarraylist {
         myarraylist.print();
         System.out.println();
         System.out.println(myarraylist.getTail());
+        System.out.println(myarraylist.size());
     }
 }
