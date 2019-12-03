@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07de14f8-8a65-4886-8158-57ca07d4a02d" name="Default Changelist" comment="v1.1">
-      <change afterPath="$PROJECT_DIR$/src/learn/linkedlist/FanZhuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learn/linkedlist/IsHuan.java" afterDir="false" />
+    <list default="true" id="07de14f8-8a65-4886-8158-57ca07d4a02d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/learn/linkedlist/DeleteReverseNNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/linkedlist/FindMidNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learn/linkedlist/Merge2YouXuLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boy_next_door/learn/linkedlist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boy_next_door/learn/linkedlist/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boy_next_door/learn/list/TestMyarraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boy_next_door/learn/list/TestMyarraylist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learn/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn/linkedlist/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learn/list/TestMyarraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learn/list/TestMyarraylist.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,25 +26,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="9" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="803" />
-          <entry key="txt" value="6" />
+          <entry key="java" value="2485" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="803" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="2485" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -84,10 +81,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="109">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#204#205#0" expanded="true" />
                 <element signature="e#242#243#0" expanded="true" />
                 <element signature="e#274#275#0" expanded="true" />
@@ -109,11 +105,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/IsHuan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="180">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="24" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/FindMidNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/DeleteReverseNNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/Merge2YouXuLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -130,7 +153,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>initialCapacity</find>
+      <find>orgin2</find>
     </findStrings>
+    <replaceStrings>
+      <replace>head2</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -146,6 +173,9 @@
         <option value="$PROJECT_DIR$/src/learn/linkedlist/Node.java" />
         <option value="$PROJECT_DIR$/src/learn/linkedlist/FanZhuan.java" />
         <option value="$PROJECT_DIR$/src/learn/linkedlist/IsHuan.java" />
+        <option value="$PROJECT_DIR$/src/learn/linkedlist/FindMidNode.java" />
+        <option value="$PROJECT_DIR$/src/learn/linkedlist/DeleteReverseNNode.java" />
+        <option value="$PROJECT_DIR$/src/learn/linkedlist/Merge2YouXuLinkedList.java" />
       </list>
     </option>
   </component>
@@ -220,7 +250,7 @@
     <property name="SearchEverywhereHistoryKey" value="arrayList&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/java/util/ArrayList.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575292603784" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575379189001" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,9 +273,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsHuan">
+  <component name="RunManager" selected="Application.Merge2YouXuLinkedList">
+    <configuration name="DeleteReverseNNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.linkedlist.DeleteReverseNNode" />
+      <module name="Boy_next_door" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FanZhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learn.linkedlist.FanZhuan" />
+      <module name="Boy_next_door" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMidNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.linkedlist.FindMidNode" />
       <module name="Boy_next_door" />
       <extension name="coverage">
         <pattern>
@@ -270,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMyarraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learn.list.TestMyarraylist" />
+    <configuration name="Merge2YouXuLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn.linkedlist.Merge2YouXuLinkedList" />
       <module name="Boy_next_door" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learn.list.*" />
+          <option name="PATTERN" value="learn.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,15 +340,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestMyarraylist" />
       <item itemvalue="Application.FanZhuan" />
       <item itemvalue="Application.IsHuan" />
+      <item itemvalue="Application.FindMidNode" />
+      <item itemvalue="Application.DeleteReverseNNode" />
+      <item itemvalue="Application.Merge2YouXuLinkedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge2YouXuLinkedList" />
+        <item itemvalue="Application.DeleteReverseNNode" />
+        <item itemvalue="Application.FindMidNode" />
         <item itemvalue="Application.IsHuan" />
         <item itemvalue="Application.FanZhuan" />
-        <item itemvalue="Application.TestMyarraylist" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +367,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574854410955</updated>
       <workItem from="1574854416978" duration="7201000" />
-      <workItem from="1575285889780" duration="4442000" />
+      <workItem from="1575285889780" duration="14977000" />
     </task>
     <task id="LOCAL-00001" summary="v1.0">
       <created>1574858236282</created>
@@ -337,17 +397,23 @@
       <option name="project" value="LOCAL" />
       <updated>1575184872016</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2019-12-02">
+      <created>1575292657351</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575292657351</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11643000" />
+    <option name="totallyTimeSpent" value="22178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1293" height="687" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.254251" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" weight="0.254251" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -358,13 +424,13 @@
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3285968" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.31407943" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3179396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31768954" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5004042" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.3285968" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32857144" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32851985" />
       <window_info anchor="bottom" id="Application Servers" order="10" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="11" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
@@ -379,6 +445,39 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.254251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" sideWeight="0.5021097" side_tool="true" weight="0.2497979" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3285968" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.31407943" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31768954" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5004042" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.3285968" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32851985" />
+      <window_info anchor="bottom" id="Application Servers" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Message" order="11" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -389,19 +488,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.0" />
     <MESSAGE value="v1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/learn/linkedlist/IsHuan.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="2019-12-02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-12-02" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/src/learn/list/Iarraylist.java" />
@@ -449,12 +537,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/IsHuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/FanZhuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="109">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#177#178#0" expanded="true" />
             <element signature="e#204#205#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#274#275#0" expanded="true" />
@@ -466,17 +567,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/FanZhuan.java">
+    <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/DeleteReverseNNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="66" />
+        <state relative-caret-position="-231">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/IsHuan.java">
+    <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/FindMidNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="264">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learn/linkedlist/Merge2YouXuLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
         </state>
       </provider>
     </entry>
