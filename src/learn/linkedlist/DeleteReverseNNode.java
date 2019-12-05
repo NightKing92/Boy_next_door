@@ -47,5 +47,6 @@ public class DeleteReverseNNode {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        System.out.println(5%6);
     }
 }
