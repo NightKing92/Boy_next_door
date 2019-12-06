@@ -4,19 +4,19 @@ package learn.queue;
  * 数组方式实现循环队列
  * 核心在于判断队列空和队列满时的判断条件
  */
-public class CircleQueue {
+public class CircleArrayQueue {
     private int head;
     private int tail;
     private int[] queue = null;
     private int size = 6;//初始化的数组长度为6，实际队列队列最多只能存5个元素，以此类推...
 
-    public CircleQueue(){
+    public CircleArrayQueue(){
         queue = new int[size];
         head = 0;
         tail = 0;
     }
 
-    public CircleQueue(int size){
+    public CircleArrayQueue(int size){
         queue = new int[size];
         head = 0;
         tail = 0;
@@ -63,7 +63,7 @@ public class CircleQueue {
     }
 
     public static void main(String[] args){
-        CircleQueue c = new CircleQueue();
+        CircleArrayQueue c = new CircleArrayQueue();
         System.out.println(c.inQueue(1));
         System.out.println(c.inQueue(2));
         System.out.println(c.inQueue(3));
